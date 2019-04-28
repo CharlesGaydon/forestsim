@@ -1,7 +1,7 @@
 # Forest-Induced-Similarity
 Supervised & Unsupervised Similarity Matrix using ensemble of decision trees (e.g. Random Forest and Extra Trees).
 
-See for instance ((Dalleau et al. 2019))[https://hal.inria.fr/hal-01982232/document].
+See for instance (Dalleau et al. 2019)[https://hal.inria.fr/hal-01982232/document].
 
 ### Getting started
 
